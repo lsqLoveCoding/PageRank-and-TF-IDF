@@ -1,0 +1,19 @@
+说明书：
+
+虚拟机：vmware workstation 15 pro
+
+ubuntu版本：ubuntu 18.04
+
+eclipse版本：最新版的eclipse for java ee
+
+jdk版本：jdk 1.8.0-191
+
+hadoop版本：hadoop 2.7.6
+
+需要将文件夹中的1535258lucene-core-3.6.0.jar、IKAnalyzer.cfg.xml、IKAnalyzer2012_u6.jar、stopword
+导入到TF-IDF项目中
+
+将hadoop部署在eclipse中可参考http://www.cnblogs.com/zhangduo/p/4669145.html
+和http://www.cnblogs.com/sissie-coding/p/9449941.html
+
+安装hadoop可参考https://blog.csdn.net/weixin_42001089/article/details/81865101
